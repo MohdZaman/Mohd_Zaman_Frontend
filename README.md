@@ -19,6 +19,12 @@ This project demonstrates modern web design techniques like loaders, gradient an
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Check out the live site here](https://mohdzaman.github.io/Mohd_Zaman_Frontend/)
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -30,29 +36,30 @@ This project demonstrates modern web design techniques like loaders, gradient an
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Structure & content.
-* **CSS3** – Styling, animations, and responsiveness.
+* **HTML5** – Structure & content
+* **CSS3** – Styling, animations, and responsiveness
 
 ---
 
 ## 🔧 Setup & Usage
 
-1. Clone or download the project.
+1. Clone or download the project:
 
    ```bash
    git clone https://github.com/your-username/jinnyfy-landing-page.git
    cd jinnyfy-landing-page
    ```
+
 2. Open `index.html` in any browser.
 
 ---
 
 ## 📸 Preview
 
-* **Loader** → Displays until page fully loads.
-* **Hero Section** → Animated gradient background with fade-in text.
-* **Features** → Interactive hover effect on feature cards.
-* **Contact Section** → CTA with email link.
+* **Loader** → Displays until page fully loads
+* **Hero Section** → Animated gradient background with fade-in text
+* **Features** → Interactive hover effect on feature cards
+* **Contact Section** → CTA with email link
 
 ---
 
@@ -62,4 +69,5 @@ For inquiries, reach out at: **[info.jinnyfy@gmail.com](mailto:info.jinnyfy@gmai
 Or visit: [jinnyfy.in](https://www.jinnyfy.in/)
 
 ---
+
 
